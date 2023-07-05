@@ -1,5 +1,6 @@
-# Placer 1.12.0.0
+# Placer 1.12.1.0
 
-- Added stard Song
-- Singleplayer Updated
-- Added Worlds List
+- Added Market Place ( Comming Soon )
+- Fixed World Size
+- Singeplayer worlds are Playble on Multiplayer
+- Changed Worlds Location ( C:\placer )
