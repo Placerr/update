@@ -1,6 +1,6 @@
-# Placer 1.12.1.0
+# Placer 1.12.1.2
 
-- Added Market Place ( Comming Soon )
-- Fixed World Size
-- Singeplayer worlds are Playble on Multiplayer
-- Changed Worlds Location ( C:\placer )
+- Added Market Place
+- Added World Setting ( in Pause Menu )
+- Fixed Update Not Working
+- Added Book
