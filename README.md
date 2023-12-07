@@ -9,3 +9,4 @@
 - Usable on Browser Clients
 - Usable on Phones
 - Info Section on Settings
+- Added Rabbit and Removed NONE_BETA mob.
