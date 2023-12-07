@@ -1,6 +1,11 @@
-# Placer 1.12.1.2
+# Placer 1.14.0.1
 
-- Added Market Place
-- Added World Setting ( in Pause Menu )
-- Fixed Update Not Working
-- Added Book
+- Function Block
+- Holograms
+- Boss
+- Skeleton
+- Languege Fixed
+- More Skins
+- Usable on Browser Clients
+- Usable on Phones
+- Info Section on Settings
