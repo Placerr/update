@@ -1,3 +1,6 @@
+# Placer 1.14.1.0
+- Added Resource Packs! ( skip when says injecting )
+
 # Placer 1.14.0.2
 - Fixed Marketplace Wrong Downlaod
 - Fixed World Invaild Save Directory
