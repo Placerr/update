@@ -53,5 +53,68 @@
 - Remaked Multiplayer
 - Skins
 - Fixed Loading Bar
+- Changed mainmenu Song
 
-# I didnt Remember Old Updates.. Sorry!
+# 1.9.X.X ( 1.9.0.3 / 1.9.2.1 / 1.9.2.0)
+- World Generator Updated!
+- Added Sheeps
+- Added Settings ( Language - Sounds )
+- Changed World Save Functions Location ( 1.9.2.1 )
+- Added Signin Button ( removed on 1.9.2.0 )
+- Added Play Screen Tabs ( 1.9.2.0 )
+- Fixed Multiplayer Screen Glitch
+- Added NONE_BETA Mob
+- Changed Loading Screen
+  
+# 1.7.X.X ( 1.7.1.0 )
+- World Generator Created
+- Removed Logo Videos
+- Updated PlayScreen
+- Changed Buttons
+
+# 1.6.8.0
+- Placer Remaked
+- Added Colored Blocks
+
+# Placer Education Edition
+
+# 1.6.7.0
+- Removed Painting Level
+- Added Logo Videos
+
+# 1.6.5.0
+- Removed BargmyPixel Logo
+- Added MoreLevels!
+- Removed Demo Lesson
+- Added Help Image
+- Removed Signin button
+- Removed TouchScreen Buttons
+
+# 1.6.2.0
+- Added TrashPicking Level!!
+- Added Levels List
+- Added BargmyPixel Logo
+- Removed AriaMath Song
+
+# 1.5.0.0
+- Placer Education Edition Created
+- Added Olum Level
+
+# Placer Legacy 
+
+# 1.4.1.0
+- Added Song
+- Added FallingLand ( Comming Soon! )
+- Added Fish
+
+# NO OLDER VERSIONS FOUNDED
+
+# 1.0.0
+- Added FaceBook Signin
+- Added Multiplayer
+- Added Save
+- Added Game
+
+# on July 2021..
+- I found a way to place tiles on tilemap.. then i made a game named placer but i didnt know that can be my best game :)
+- Thanks for playing and reading changelogs.. bargmy - 2024-1-26
