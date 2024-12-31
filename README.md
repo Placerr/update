@@ -1,3 +1,14 @@
+# Placer 1.14.2.0
+- Added Willow Ptarmigan
+- Now every 200 seconds it will be day or night
+- Marketplace Removed. ( Unstable )
+- Added big water pools
+- Added Rain
+- Fixed Mob Spawning Issues
+- Added Moving Functions
+- Added ALL Skins to Singleplayer!
+- Fixed Touch Controls
+
 # Placer 1.14.1.0
 - Added Resource Packs! ( skip when says injecting )
 
