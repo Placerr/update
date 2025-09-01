@@ -1,3 +1,15 @@
+# Placer 1.15.0.0 ( My Beautiful world )
+- Added More realistic world generation
+- Remaked Multiplayer system
+- Added Official servers list
+- Remaked Language System ( Now a lot of languages is available )
+- Added Gamepad Controls
+- FULL Touch Control
+- Removed Rooms list from Multiplayer section
+- Added "Lena Raine - Eld Unknown" as a main menu song
+- Added Lena Rain to credits list
+- New Panorama
+
 # Placer 1.14.2.0
 - Added Willow Ptarmigan
 - Now every 200 seconds it will be day or night
